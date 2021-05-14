@@ -1,0 +1,152 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+.My_Nav_Bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+a {
+    font-size: 25;
+    text-decoration: none;
+}
+
+#welcome {
+    width: 100%;
+}
+
+#school-pic {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#map {
+    padding: 10px;
+}
+
+#details a {
+    float: none;
+}
+
+#contaxt_us {
+    text-align: justify;
+}
+
+#LO-div {
+    padding-bottom: 43px;
+}
+
+#about_school a {
+    font-size: 15px;
+}
+
+#about_school a:hover {
+    color: darkmagenta;
+}
+
+#marq_style {
+    width: 100%;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+#AT_MA_VB_RS_D {
+    height: 350px;
+}
+
+.contact_img img {
+    width: 250px;
+}
+
+.contact_img {
+    display: inline;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.campus_life {
+    float: left;
+    width: 50%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.campus_life img {
+    width: 100%;
+    height: 350px;
+}
+
+.achievement_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievement_head span {
+    float: right;
+}
+
+.achiev_title {
+    float: left !important;
+}
+
+.alumnies {
+    cursor: pointer;
+}
+
+.alumnies hr {
+    margin-bottom: 10px;
+}
+
+.news_li {
+    margin-top: 20px;
+}
+
+.news_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+    text-align: left;
+}
+
+.news_li img {
+    border-radius: 25px;
+
+}
+
+.news_li p {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.announcement {
+    background-color: darkgoldenrod;
+    width: 100%;
+    height: 30px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.modal-body {
+    text-align: center;
+}
